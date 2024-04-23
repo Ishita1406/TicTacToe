@@ -12,6 +12,6 @@ public class Game {
     private List<Player> player;
     private int nextPlayerMoveIndex;
     private List<Moves> moves;
-    private EGameState EGameState;
+    private EGameState eGameState;
     private Player winner;
 }

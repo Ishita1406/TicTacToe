@@ -6,5 +6,5 @@ import lombok.Setter;
 @Setter
 @Getter
 public class Bot extends Player{
-    private EBotDifficultyLevel EBotDifficultyLevel;
+    private EBotDifficultyLevel eBotDifficultyLevel;
 }

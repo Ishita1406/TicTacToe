@@ -9,5 +9,5 @@ public class Cell {
     private int row;
     private int column;
     private Player player;
-    private ECellState ECellState;
+    private ECellState eCellState;
 }
