@@ -1,6 +1,6 @@
 package com.example.tictactoesst.models;
 
-public enum GameState {
+public enum EGameState {
     IN_PROGRESS,
     ENDED,
     DRAW

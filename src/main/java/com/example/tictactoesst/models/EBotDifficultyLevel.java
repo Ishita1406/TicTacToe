@@ -1,6 +1,6 @@
 package com.example.tictactoesst.models;
 
-public enum BotDifficultyLevel {
+public enum EBotDifficultyLevel {
     EASY,
     MEDIUM,
     HARD

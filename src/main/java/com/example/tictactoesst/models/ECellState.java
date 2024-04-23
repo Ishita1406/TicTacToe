@@ -1,6 +1,6 @@
 package com.example.tictactoesst.models;
 
-public enum CellState {
+public enum ECellState {
     EMPTY,
     FILLED,
     BLOCKED

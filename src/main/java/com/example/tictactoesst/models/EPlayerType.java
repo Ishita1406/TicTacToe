@@ -1,6 +1,6 @@
 package com.example.tictactoesst.models;
 
-public enum PlayerType {
+public enum EPlayerType {
     HUMAN,
     BOT
 }
